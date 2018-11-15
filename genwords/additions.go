@@ -249,6 +249,7 @@ protototype->prototype
 publsih->publish
 quuery->query
 requried->required
+requiered->required
 retrived->retrieved
 ridiculus->ridiculous
 seperator->separator
